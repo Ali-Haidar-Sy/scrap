@@ -1,0 +1,17 @@
+## 📁 PROJECT STRUCTURE
+scrap/
+├── lab2_scrapy/
+│ ├── init.py
+│ ├── items.py
+│ ├── middlewares.py
+│ ├── pipelines.py
+│ ├── settings.py
+│ └── spiders/
+│ ├── init.py
+│ └── books.py
+├── scrapy.cfg
+├── search_books.py
+├── books.json
+├── requirements.txt
+├── README.md
+└── LICENSE
